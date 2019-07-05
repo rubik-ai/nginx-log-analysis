@@ -22,11 +22,11 @@ Write proper tests and documentation. Deliver your source code in a public Githu
 You can download sample logs from this repo. You can play these logs into your Kafka topic to generate your test dataset.
 
 ### References 
-https://goaccess.io/
-https://code.google.com/archive/p/apache-scalp/
-https://docs.nginx.com/nginx/admin-guide/monitoring/logging/
-https://hub.docker.com/r/bitnami/kafka/
-https://www.webopedia.com/TERM/D/DoS_attack.html
+- https://goaccess.io/
+- https://code.google.com/archive/p/apache-scalp/
+- https://docs.nginx.com/nginx/admin-guide/monitoring/logging/
+- https://hub.docker.com/r/bitnami/kafka/
+- https://www.webopedia.com/TERM/D/DoS_attack.html
 
 
 
